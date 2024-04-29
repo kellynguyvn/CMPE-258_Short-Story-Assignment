@@ -18,3 +18,7 @@ The paper chosen was: [Towards Reasoning in Large Language Models: A Survey](htt
 
 
 ### Video Presentation 
+### [Youtube Link](https://youtu.be/LNgcVv1vU6g) 
+
+Uploading video1478832220.mp4…
+
