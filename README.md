@@ -7,6 +7,14 @@ The paper chosen was: [Towards Reasoning in Large Language Models: A Survey](htt
 2. **Medium Article**: Readable summarization that further dives into the survey paper and topic
 3. **Research Slidedeck**: Slidedeck explaining the short story uploaded to slideshare.com
 4. **Video Presentation**: 15-20 minute presentation uploaded to Youtube presented curated slideck explaining short story.
-## Medium Article
-[Unveiling the Reasoning Abilities of Large Language Models: A Comprehensive Review](https://medium.com/@kelly.nguyen01/unveiling-the-reasoning-abilities-of-large-language-models-a-comprehensive-review-88052f12e1b9) <img width="1439" alt="Screenshot 2024-04-28 at 4 55 12 PM" src="https://github.com/kellynguyvn/CMPE-258_Short-Story-Assignment/assets/80297074/05e9e24d-0537-4124-af2c-eeb97624b688">
-## Video Presentation 
+-------------------------------------------------------
+# Deliverables (Quick Access)
+### Medium Article 
+#### [Unveiling the Reasoning Abilities of Large Language Models: A Comprehensive Review](https://medium.com/@kelly.nguyen01/unveiling-the-reasoning-abilities-of-large-language-models-a-comprehensive-review-88052f12e1b9) <img width="1439" alt="Screenshot 2024-04-28 at 4 55 12 PM" src="https://github.com/kellynguyvn/CMPE-258_Short-Story-Assignment/assets/80297074/05e9e24d-0537-4124-af2c-eeb97624b688">
+### Presentation Slidedeck Link
+#### [Slideshare Link](https://www.slideshare.net/slideshow/short-story-unveiling-the-reasoning-abilities-of-large-language-models-by-kelly-nguyenpdf/267619454)
+
+<img width="1436" alt="Screenshot 2024-04-28 at 7 15 54 PM" src="https://github.com/kellynguyvn/CMPE-258_Short-Story-Assignment/assets/80297074/77c1be3e-8fb2-4fe2-ab5f-f0ab3eaaf829">
+
+
+### Video Presentation 
